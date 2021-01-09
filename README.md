@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi There
 
-<!--
-**insomnius/insomnius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software engineer that focuses mainly on backend and have expertise in microservice architecture, kubernetes, development
+cycles, development principles and distributed architecture. I’m eager to learn new terms and skill in this industry and aim to pursue a career as
+a software architect.
 
-Here are some ideas to get you started:
+I believe good technology is not technology that has all the complex science in it, but one that has a good impact on others and develops the
+bonds between the user and the creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://komarev.com/ghpvc/?username=insomnius)
+
+### I create open source project that may help you!
+---
+
+
+- [Altair - Lightweight and Robust API Gateway Written in Go](https://github.com/codefluence-x/altair)
+- [Coronator - Indonesia Open Source Covid-19 Contact Tracing Application](https://github.com/coronatorid)
+
+---
+
+<a href="https://github.com/insomnius"><img src="https://github-readme-stats.vercel.app/api?username=insomnius&hide_border=true&show_icons=true" alt="insomnius's github stats"></a>
+
