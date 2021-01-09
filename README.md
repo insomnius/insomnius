@@ -1,11 +1,6 @@
-## Hi There
+## Hi There 🖐 
 
-I’m a passionate software engineer that focuses mainly on backend and have expertise in microservice architecture, kubernetes, development
-cycles, development principles and distributed architecture. I’m eager to learn new terms and skill in this industry and aim to pursue a career as
-a software architect.
-
-I believe good technology is not technology that has all the complex science in it, but one that has a good impact on others and develops the
-bonds between the user and the creator.
+> I believe good technology is not technology that has all the complex science in it, but one that has a good impact on others and develops the bonds between the user and the creator.
 
 ![Visitors](https://komarev.com/ghpvc/?username=insomnius)
 
