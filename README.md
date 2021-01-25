@@ -16,6 +16,4 @@
 
 ---
 
-<a href="https://github.com/insomnius"><img src="https://github-readme-stats.vercel.app/api?username=insomnius&hide_border=true&show_icons=true" alt="insomnius's github stats"></a>
-
 ![Visitors](https://komarev.com/ghpvc/?username=insomnius)
