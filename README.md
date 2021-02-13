@@ -11,6 +11,7 @@
 
 ### Links
 
+- [Get Started with Altair][http://altair.codefluence.org/]
 - [Coronator Landingpage](https://coronator.id)
 - [My writing](https://insomnius.github.io)
 
