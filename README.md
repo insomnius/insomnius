@@ -7,7 +7,7 @@
 ### I create open source project that may help you!
 
 - [Altair - Lightweight and Robust API Gateway Written in Go](https://github.com/codefluence-x/altair)
-- [Monorepo - All in one golang package](https://github.com/codefluence-x/altair)
+- [Monorepo - All in one golang package](https://github.com/codefluence-x/monorepo)
 - [Coronator - Indonesia Open Source Covid-19 Contact Tracing Application](https://github.com/coronatorid)
 
 ### Links
