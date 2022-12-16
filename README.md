@@ -1,6 +1,6 @@
 ## Hi There 🖐 
 
-> I believe good technology is not technology that has all the complex science in it, but one that has a good impact on others and develops the bonds between the user and the creator.
+> I believe good technology is not only the technology that has all the complex science in it, but one that has a good impact on others and develops the bonds between the user and the creator.
 
 ---
 
