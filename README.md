@@ -9,12 +9,13 @@
 - [Altair - Lightweight and Robust API Gateway Written in Go](https://github.com/codefluence-x/altair)
 - [Monorepo - All in one golang package](https://github.com/codefluence-x/monorepo)
 - [Coronator - Indonesia Open Source Covid-19 Contact Tracing Application](https://github.com/coronatorid)
+- [Kanjiverse - Learn Japan language online to and train to pass JLPT](https://github.com/insomnius/kanjiverse)
 
 ### Links
 
 - [Get Started with Altair](http://altair.codefluence.org/)
-- [Coronator Landingpage](https://coronator.id)
-- [My writing](https://insomnius.github.io)
+- [Kanji Verse](https://kanjiverse.insomnius.dev)
+- [My Website](https://insomnius.dev)
 
 ---
 
